@@ -1,0 +1,9 @@
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\Release\CPLResourceRunner.csprojAssemblyReference.cache
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\Release\ControlPanelMaker.Properties.Resources.resources
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\Release\CPLResourceRunner.csproj.GenerateResource.cache
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\Release\CPLResourceRunner.csproj.CoreCompileInputs.cache
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\bin\Release\ControlPanelMaker.dll.config
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\bin\Release\ControlPanelMaker.dll
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\bin\Release\System.Management.Automation.dll
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\Release\CPLResourceRunner.csproj.CopyComplete
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\Release\ControlPanelMaker.dll

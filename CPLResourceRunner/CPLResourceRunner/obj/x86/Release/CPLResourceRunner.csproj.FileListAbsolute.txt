@@ -1,0 +1,19 @@
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\bin\x86\Release\ControlPanelMaker.dll.config
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\bin\x86\Release\ControlPanelMaker.dll
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\bin\x86\Release\ControlPanelMaker.pdb
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\bin\x86\Release\System.Management.Automation.dll
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\ControlPanelMaker.Properties.Resources.resources
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\CPLResourceRunner.csproj.GenerateResource.cache
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\CPLResourceRunner.csproj.CoreCompileInputs.cache
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\CPLResourceRunner.csproj.CopyComplete
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\ControlPanelMaker.dll
+C:\Users\rvrsh3ll\Desktop\Research\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\ControlPanelMaker.pdb
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\CPLResourceRunner.csprojAssemblyReference.cache
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\ControlPanelMaker.Properties.Resources.resources
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\CPLResourceRunner.csproj.GenerateResource.cache
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\CPLResourceRunner.csproj.CoreCompileInputs.cache
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\ControlPanelMaker.dll
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\obj\x86\Release\ControlPanelMaker.pdb
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\bin\x86\Release\ControlPanelMaker.dll.config
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\bin\x86\Release\ControlPanelMaker.dll
+C:\Users\rvrsh3ll\Desktop\Research\payloads\CPLResourceRunner (1)\CPLResourceRunner\CPLResourceRunner\bin\x86\Release\ControlPanelMaker.pdb
