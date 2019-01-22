@@ -9,7 +9,7 @@ cat shellcode.txt |sed 's/[, ]//g; s/0x//g;' |tr -d '\n' |xxd -p -r |gzip -c |ba
 
 Copy b64shellcode.txt contents into Resources.txt in this project
 
-Compile to x86 anc copy CPLShellcodeRunner.dll to RunMe.cpl
+Compile to x86 anc copy CPLResourceRunner.dll to RunMe.cpl
 
 Will launch with double click or 'wmic process call create "cmd.exe /c c:\wherever\RunMe.cpl"'
 
