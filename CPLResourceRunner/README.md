@@ -8,3 +8,5 @@ to convert beacon.bin to usable shellcode (shellcode.txt).
 #Convert shellcode.txt to base64 blob to place in resource file
 
 cat shellcode.txt |sed 's/[, ]//g; s/0x//g;' |tr -d '\n' |xxd -p -r |gzip -c |base64 > b64shellcode.txt
+
+Credits to https://atom0s.com/forums/viewtopic.php?t=178 for the shellcode piece
