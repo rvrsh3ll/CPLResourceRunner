@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import binascii
 import sys
 
