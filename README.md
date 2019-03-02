@@ -1,16 +1,17 @@
 # CPLResourceRunner
-Create Payload "RAW" fully staged (S) in cobalt strike
 
-Run ConvertShellcode.py on the beacon.bin file.
-https://gist.githubusercontent.com/rvrsh3ll/abea05538480db9e41afa3799e5053bb/raw/74cdb762da1aa8556d04959d83900eaa2d6170d6/ConvertShellcode.py
+Create Payload "RAW" fully-staged (S) (x86) in cobalt strike
 
-Run String against the "shellcode.txt" file to get blob for cpl resource
+Run ConvertShellcode.py on your beacon.bin file
+
+Run the following command against the "shellcode.txt" file to get a blob for the cpl resource.
+
 cat shellcode.txt |sed 's/[, ]//g; s/0x//g;' |tr -d '\n' |xxd -p -r |gzip -c |base64 > b64shellcode.txt
 
-Copy b64shellcode.txt contents into Resources.txt in this project
+Copy b64shellcode.txt contents into Resources.txt in this project.
 
-Compile to x86 anc copy CPLResourceRunner.dll to RunMe.cpl
+Compile to x86 and copy CPLResourceRunner.dll to RunMe.cpl
 
-Will launch with double click or 'wmic process call create "cmd.exe /c c:\wherever\RunMe.cpl"'
+Will launch with double click or whatever method you use to execute files.
 
 For asthetics, change the contents of the MsgBox to suit your pretext or remove for lateral movement usage.

