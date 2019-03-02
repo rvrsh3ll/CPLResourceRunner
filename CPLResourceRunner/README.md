@@ -10,3 +10,4 @@ to convert beacon.bin to usable shellcode (shellcode.txt).
 cat shellcode.txt |sed 's/[, ]//g; s/0x//g;' |tr -d '\n' |xxd -p -r |gzip -c |base64 > b64shellcode.txt
 
 Credits to https://atom0s.com/forums/viewtopic.php?t=178 for the shellcode piece
+Thanks to @jnqpblc for help with this project
